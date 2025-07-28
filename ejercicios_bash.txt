@@ -1,0 +1,299 @@
+1. Hola Mundo
+Crea un script que imprima "Hola Mundo" en la terminal.
+
+2. Variables y Operaciones
+Crea un script que defina dos variables, las sume y muestre el resultado.
+
+3. Condicionales Básicos
+Escribe un script que verifique si un número es mayor o menor que 10.
+
+4. Condicionales Anidados
+Escribe un script que verifique si un número es positivo, negativo o cero.
+
+5. Operadores Lógicos
+Crea un script que pida el nombre del usuario y si es "admin", imprima un mensaje especial.
+
+6. Estructuras de Bucle: for
+Crea un script que imprima los números del 1 al 10 utilizando un bucle for.
+
+7. Estructuras de Bucle: while
+Crea un script que imprima los números del 1 al 10 usando un bucle while.
+
+8. Leer Entrada del Usuario
+Crea un script que pida al usuario su nombre y luego imprima un saludo personalizado.
+
+9. Uso de Arrays
+Crea un script que defina un array de nombres y los imprima en un bucle.
+
+10. Comprobación de Archivos
+Crea un script que verifique si un archivo existe.
+
+11. Contar Archivos en un Directorio
+Crea un script que cuente cuántos archivos hay en un directorio.
+
+12. Mostrar Fecha y Hora
+Crea un script que imprima la fecha y hora actual en formato específico.
+
+13. Buscar un Archivo
+Escribe un script que busque un archivo en el sistema por nombre.
+
+14. Copiar Archivos
+Crea un script que copie un archivo de un directorio a otro.
+
+15. Eliminar Archivos
+Escribe un script que elimine un archivo dado por el usuario.
+
+16. Mover Archivos
+Crea un script que mueva un archivo a una ubicación diferente.
+
+17. Renombrar Archivos
+Escribe un script que cambie el nombre de un archivo dado.
+
+18. Comprimir Archivos
+Crea un script que comprima un archivo usando gzip.
+
+19. Descomprimir Archivos
+Escribe un script que descomprima un archivo usando gunzip.
+
+20. Listar Archivos en un Directorio
+Crea un script que liste los archivos en un directorio dado.
+
+21. Comprobar Espacio en Disco
+Escribe un script que muestre el espacio libre en el disco.
+
+22. Ver Procesos en Ejecución
+Crea un script que liste los procesos activos en el sistema.
+
+23. Detener un Proceso
+Crea un script que termine un proceso dado por el usuario.
+
+24. Ver Uso de la Memoria
+Escribe un script que muestre el uso de la memoria en el sistema.
+
+25. Ver el Historial de Comandos
+Crea un script que muestre el historial de comandos del usuario.
+
+26. Mostrar el Sistema Operativo
+Escribe un script que muestre la versión del sistema operativo.
+
+27. Comprobar Conexión a Internet
+Crea un script que verifique si el sistema tiene acceso a Internet.
+
+28. Crear un Directorio
+Escribe un script que cree un nuevo directorio.
+
+29. Eliminar Directorio
+Crea un script que elimine un directorio vacío.
+
+30. Ver los Archivos de un Comando
+Crea un script que ejecute el comando ls y muestre los archivos con detalles.
+
+31. Ordenar Archivos por Fecha
+Escribe un script que ordene los archivos de un directorio por fecha de modificación.
+
+32. Pip Pip Pip (Salir del Script)
+Escribe un script que se cierre automáticamente después de 10 segundos.
+
+33. Definir Funciones
+Crea una función que imprima "Hola Mundo" y luego invócala en un script.
+
+34. Funciones con Parámetros
+Crea una función que reciba un parámetro y lo imprima.
+
+35. Operaciones con Fechas
+Crea un script que imprima la fecha y la hora dentro de 5 días.
+
+36. Conocer el Usuario Activo
+Crea un script que muestre el nombre del usuario que está actualmente logueado.
+
+37. Mostrar el ID del Usuario
+Escribe un script que imprima el UID del usuario activo.
+
+38. Crear un Alias
+Crea un alias en el script para simplificar un comando.
+
+39. Comprimir Directorios
+Escribe un script que comprima un directorio completo en un archivo .tar.gz.
+
+40. Descomprimir un Archivo .tar.gz
+Crea un script que descomprima un archivo .tar.gz.
+
+41. Comprimir Archivos con zip
+Crea un script que comprima un archivo o directorio utilizando zip.
+
+42. Descomprimir Archivos con unzip
+Escribe un script que descomprima un archivo .zip.
+
+43. Reemplazar Texto en un Archivo
+Escribe un script que reemplaze una palabra en un archivo de texto.
+
+44. Buscar Texto en un Archivo
+Crea un script que busque una palabra dentro de un archivo.
+
+45. Crear un Script Automático de Backup
+Escribe un script que haga un backup de un directorio y lo guarde con la fecha del día.
+
+46. Manejo de Errores
+Crea un script que maneje errores con el comando exit dependiendo del código de error.
+
+47. Variables de Entorno
+Crea un script que defina y use variables de entorno.
+
+48. Manejo de Señales (trap)
+Escribe un script que capture una señal de interrupción (SIGINT) y muestre un mensaje.
+
+49. Crear Archivos con Permisos Específicos
+Crea un script que cree un archivo con permisos de solo lectura.
+
+50. Manejo de Archivos Temporales
+Escribe un script que cree un archivo temporal y luego lo elimine.
+
+51. Redireccionamiento de Salida
+Crea un script que redirija la salida estándar de un comando a un archivo.
+
+52. Uso de tee
+Crea un script que use tee para mostrar la salida en pantalla y guardarla en un archivo.
+
+53. Comprobar el Uso de CPU
+Escribe un script que muestre el porcentaje de uso de la CPU.
+
+54. Monitor de Recursos del Sistema
+Crea un script que imprima estadísticas del sistema como el uso de memoria y CPU cada 5 segundos.
+
+55. Usar grep para Filtrar Archivos
+Escribe un script que busque un término en un archivo de log usando grep.
+
+56. Contar Líneas de un Archivo
+Crea un script que cuente el número de líneas en un archivo.
+
+57. Calcular la Suma de un Archivo
+Escribe un script que calcule la suma de números dentro de un archivo de texto.
+
+58. Ver la Lista de Usuarios
+Crea un script que imprima la lista de usuarios registrados en el sistema.
+
+59. Ver los Grupos de un Usuario
+Escribe un script que muestre los grupos de un usuario específico.
+
+60. Cambiar la Contraseña de un Usuario
+Crea un script que cambie la contraseña de un usuario (requiere privilegios).
+
+61. Monitoreo de Archivos en Tiempo Real
+Crea un script que monitoree cambios en un archivo en tiempo real con inotifywait.
+
+62. Generar un Informe de Uso de Disco
+Escribe un script que genere un informe sobre el uso del disco.
+
+63. Validar una Dirección de Correo Electrónico
+Crea un script que valide si una dirección de correo electrónico es válida usando expresiones regulares.
+
+64. Búsqueda Recursiva de Archivos
+Escribe un script que busque archivos en un directorio y sus subdirectorios.
+
+65. Renombrar Múltiples Archivos
+Crea un script que renombre todos los archivos .txt en un directorio agregando un sufijo.
+
+66. Contar Palabras en un Archivo
+Crea un script que cuente el número de palabras en un archivo de texto.
+
+67. Contar Palabras en un Archivo
+Escribe un script que cuente el número de palabras en un archivo de texto.
+
+68. Filtrar Archivos por Extensión
+Crea un script que liste todos los archivos de un directorio con una extensión específica (por ejemplo, .jpg).
+
+69. Generar un Archivo de Log
+Escribe un script que registre el uso de comandos o actividades del sistema en un archivo de log.
+
+70. Ver el Tamaño de un Directorio
+Crea un script que calcule y muestre el tamaño total de un directorio.
+
+71. Buscar un Archivo por Contenido
+Crea un script que busque un archivo cuyo contenido contenga una palabra o frase específica.
+
+72. Comparar Archivos
+Escribe un script que compare el contenido de dos archivos y muestre las diferencias.
+
+73. Listar Directorios y Archivos Separados
+Crea un script que liste primero todos los directorios y luego los archivos de un directorio dado.
+
+74. Recorrer Archivos con un for
+Escribe un script que recorra todos los archivos en un directorio y ejecute un comando para cada uno (por ejemplo, contar las líneas de cada archivo).
+
+75. Reemplazar Texto en Varios Archivos
+Crea un script que busque y reemplace una palabra en todos los archivos de un directorio.
+
+76. Ver las Últimas N Líneas de un Archivo
+Crea un script que muestre las últimas N líneas de un archivo.
+
+77. Comprobar la Integridad de un Archivo
+Escribe un script que use md5sum para verificar la integridad de un archivo.
+
+78. Monitor de Archivos
+Crea un script que monitoree un archivo y avise si su contenido cambia.
+
+79. Script de Backup Automático
+Escribe un script que haga un backup automático de un directorio especificado cada X minutos.
+
+80. Crear un Script de Instalación
+Crea un script que instale un paquete de software específico usando apt o yum.
+
+81. Generar Contraseñas Aleatorias
+Escribe un script que genere una contraseña aleatoria de longitud N.
+
+82. Enviar un Correo Electrónico
+Crea un script que envíe un correo electrónico con mail o sendmail.
+
+83. Crear un Archivo de Texto con Timestamps
+Crea un script que registre un timestamp cada vez que se ejecute.
+
+84. Verificar si un Proceso Está Corriendo
+Escribe un script que verifique si un proceso específico está ejecutándose.
+
+85. Obtener el Tiempo de Actividad del Sistema
+Crea un script que imprima el tiempo de actividad del sistema utilizando el comando uptime.
+
+86. Mostrar los Puertos Abiertos
+Escribe un script que liste los puertos abiertos en el sistema.
+
+87. Obtener la Dirección IP Local
+Crea un script que obtenga y muestre la dirección IP local de la máquina.
+
+88. Obtener la Dirección IP Externa
+Escribe un script que obtenga y muestre la dirección IP pública del sistema utilizando un servicio como curl.
+
+89. Monitorear el Uso de Recursos de una Aplicación
+Crea un script que monitoree el uso de CPU y memoria de una aplicación en ejecución.
+
+90. Mostrar el Historial de Comandos con Fecha y Hora
+Escribe un script que imprima el historial de comandos de la sesión actual con las fechas y horas.
+
+91. Filtrar y Ordenar Archivos por Tamaño
+Crea un script que liste los archivos de un directorio y los ordene por tamaño.
+
+92. Control de Versiones con Git
+Escribe un script que haga un git pull, realice un git commit y empuje los cambios a un repositorio remoto.
+
+93. Validar una IP
+Crea un script que valide si una cadena es una dirección IP válida usando una expresión regular.
+
+94. Generar un Informe de Uso de CPU
+Escribe un script que recopile estadísticas sobre el uso de la CPU y lo guarde en un archivo.
+
+95. Tareas Programadas con cron
+Crea un script que se ejecute de forma automática a intervalos específicos usando cron.
+
+96. Tarea Programada para Reiniciar un Servicio
+Escribe un script que reinicie un servicio de sistema (por ejemplo, Apache) a intervalos regulares usando cron.
+
+97. Monitor de Red con netstat
+Crea un script que muestre las conexiones de red activas utilizando el comando netstat.
+
+98. Simular un Comando de Linux (Alias)
+Escribe un script que simule un comando como ls o grep y haga su propia implementación.
+
+99. Subir Archivos a un Servidor FTP
+Crea un script que suba archivos a un servidor FTP utilizando ftp o lftp.
+
+100. Monitorear el Log del Sistema
+Escribe un script que monitoree y registre entradas en un archivo de log del sistema como /var/log/syslog.
